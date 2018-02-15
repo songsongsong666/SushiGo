@@ -28,18 +28,11 @@ Among these steps, (4), (5) and (6) are the most important parts in the game. St
 Sushi Go lovers, especially young people.
 
 ### Technologies
-CSS
-
-HTML
-
-JavaScript
-
-Bootstrap
-
-Angular JS
-
-Node JS
-
-MongoDB
-
-Other possible options: Python, Django, .NET, jQuery, MySQL, RESTful API
+* CSS
+* HTML
+* JavaScript
+* Bootstrap
+* Angular JS
+* Node JS
+* MongoDB
+* Other possible options: Python, Django, .NET, jQuery, MySQL, RESTful API
