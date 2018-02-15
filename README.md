@@ -2,7 +2,9 @@
 
 ## Team Members
 Xingrong Wu, wu.xingr@husky.neu.edu, phoebe0607
+
 Jiahan Zhu,zhu.jiaha@husky.neu.edu, jiahanzhu
+
 Shifeng Song, song.s@husky.neu.edu, songsf
 
 ## Name of Proposed Project
@@ -27,10 +29,17 @@ Sushi Go lovers, especially young people.
 
 ### Technologies
 CSS
+
 HTML
+
 JavaScript
+
 Bootstrap
+
 Angular JS
+
 Node JS
+
 MongoDB
+
 Other possible options: Python, Django, .NET, jQuery, MySQL, RESTful API
